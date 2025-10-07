@@ -11,7 +11,7 @@
 <body>
   <div class="page">
     <header class="header">
-      <h1>Desserts</h1>
+      <h2>Desserts</h2>
     </header>
 
     <main class="main">
