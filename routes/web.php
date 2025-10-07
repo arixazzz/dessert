@@ -6,8 +6,8 @@ Route::get('/', function () {
     $products = [
         [
             'id' => 1,
-            'category' => 'Tiramisu',
-            'title' => 'Tiramisu cake',
+            'category' => 'cake coklat',
+            'title' => 'cake coklat',
             'price' => 6.50,
             'img' => 'cake1.jpg'
         ],
